@@ -1,0 +1,2 @@
+# appannie
+通过selenium.webdriver.firefox获取appannie网站的应用排行榜数据以及youtube歌手排名信息
